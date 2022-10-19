@@ -15,6 +15,8 @@ Puedes utilizar las variables "sensor_izquierda", "sensor_derecha" y "sensor_fro
 
 ## Ejercicio 1: robot aleatorio que choca
 
+![](./imagenes/roomba-markdown.png)
+
 Programa el robot para que avance siempre y que cuando detecte un choque cambie la dirección a una aleatoria.
 
 ## Ejercicio 2: robot aleatorio que no choca
