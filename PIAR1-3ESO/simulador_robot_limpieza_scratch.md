@@ -1,5 +1,5 @@
 # Simulador robot de limpieza
-> por Rubén Cancho (@canx)
+> por Rubén Cancho
 
 Modifica el código fuente del simulador para programar al robot de limpieza y que limpie cada habitación de suciedad antes de que se te acabe la batería! Accede al simulador con el siguiente enlace:
 
