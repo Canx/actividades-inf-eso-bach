@@ -50,3 +50,6 @@ Deberás comprobar dentro de cada función si has llegado al tiempo límite y ab
 ## Ejercicio 10: Limpieza con algoritmos con tiempo variable
 
 Crea un programa de limpieza que cada cierto tiempo cambie el algoritmo de limpieza a otro aleatorio. Reutiliza las funciones creadas en el ejercicio 9, de modo que el tiempo de uso de cada algoritmo también sea aleatorio.
+
+---
+[Última versión](https://github.com/Canx/actividades-inf-eso-bach/blob/main/PIAR1-3ESO/simulador_robot_limpieza_scratch.md)
