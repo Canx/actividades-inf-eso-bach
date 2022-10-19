@@ -15,8 +15,6 @@ Puedes utilizar las variables "sensor_izquierda", "sensor_derecha" y "sensor_fro
 
 ## Ejercicio 1: robot aleatorio que choca
 
-![](./imagenes/roomba-aleatorio.png)
-
 Programa el robot para que avance siempre y que cuando detecte un choque cambie la dirección a una aleatoria.
 
 ## Ejercicio 2: robot aleatorio que no choca
@@ -39,16 +37,16 @@ Programa el robot para que limpie los bordes. Primero debe avanzar hasta encontr
 
 Programa el robot para que limpie haciendo "eses". Cuando detecte una pared frontalmente debe girar avanzando un poco y luego hacer la pasada contraria. Cuando no pueda avanzar más debe pararse el programa.
 
-# Ejercicio 8: limpieza de bordes + serpiente
+## Ejercicio 8: limpieza de bordes + serpiente
 
 Combina la limpieza de bordes y la de serpiente. Deberás previamente haberlas encapsulado en una función.
-## Ejercicio 7: Funciones con tiempo
+
+## Ejercicio 9: Algoritmos limitados por tiempo
 
 Crea bloques de funciones que tengan el nombre de cada algoritmo de limpieza, y que tengan como parámetro el tiempo que durará la función de limpieza.
 
 Deberás comprobar dentro de cada función si has llegado al tiempo límite y abandonar.
 
-## Ejercicio 9
-## Ejercicio 8: Limpieza con algoritmos variable
+## Ejercicio 10: Limpieza con algoritmos con tiempo variable
 
-Crea un programa de limpieza que cada cierto tiempo aleatorio cambie el algoritmo de limpieza a uno diferente.
+Crea un programa de limpieza que cada cierto tiempo cambie el algoritmo de limpieza a otro aleatorio. Reutiliza las funciones creadas en el ejercicio 9, de modo que el tiempo de uso de cada algoritmo también sea aleatorio.
