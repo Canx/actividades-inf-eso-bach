@@ -1,9 +1,8 @@
-# <Título Situación de aprendizaje>:
+# Título Situación de aprendizaje
 
 * Materia:
 * Nivel:
 * Grupo:
-
 
 ## Descripción / Justificación
 
@@ -17,14 +16,14 @@
 
 ## Organización
 
-* Secuenciación de actividades
+### Secuenciación de actividades
 
-* Organización de los espacios
+### Organización de los espacios
 
-* Distribución del tiempo
+### Distribución del tiempo
 
-* Recursos y materiales
+### Recursos y materiales
 
-* Medidas de respuesta educativa para la inclusión
+### Medidas de respuesta educativa para la inclusión
 
 ## Instrumentos de recogida de información para la valoración del progreso del alumnado
