@@ -25,6 +25,9 @@ Vamos a utilizar un modelo preentrenado de detección de manos para crear un jue
 
 ### Recursos y materiales
 
+* [Raise Playground](https://playground.raise.mit.edu/main/)\
+Versión de Scratch que contiene la extensión "Hand Sensing" que utilizaremos en el proyecto.
+
 ### Medidas de respuesta educativa para la inclusión
 
 ## Instrumentos de recogida de información para la valoración del progreso del alumnado
