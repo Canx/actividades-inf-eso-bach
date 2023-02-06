@@ -28,9 +28,16 @@ En esta parte se trata de experimentar con la extensión haciendo una aplicació
   - Conectamos los mensajes con una lógica que nos muestre un mensaje en pantalla en cada situación.
   - Añadimos un objeto en el juego que tenga la siguiente lógica al recibir el mensaje "Coger:" Si estoy tocando a el dedo índice me posiciono en ese lugar.
 
-2. Lógica del juego
+2. Diseño del juego de reciclaje
  
 En esta parte se trata de diseñar un juego en el que salgan objetos y tengamos que arrastrarlos en el contenedor adecuado.
+  
+  - Buscar algunas imágenes de objetos a reciclar y de contenedores de reciclaje.
+  - Situa los contenedores de reciclaje en un lado del juego.
+  - Programa la lógica de las imágenes para que salgan después de un tiempo determinado.
+  - Programa una variable local para que nos indique a que contenedor va cada objeto.
+  - Programa la lógica para que cuando el objeto toque algún contenedor mande el mensaje "Correcto" o "Incorrecto". En caso de que sea correcto desaparecerá, en caso de que sea incorrecto volverá a la posición de origen.
+  - Programa la lógica para aumentar puntos cuando se reciba el mensaje "Correcto" y para restar vidas cuando se reciba el mensaje "Incorrecto".
 
 
 ### Organización de los espacios
