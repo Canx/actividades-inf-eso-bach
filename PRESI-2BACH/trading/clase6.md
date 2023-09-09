@@ -26,18 +26,17 @@ theme: default
 
 ---
 
+# ¿Qué es una Estrategia de Trading?
+
+- Conjunto de reglas y condiciones para entrar y salir de una operación
+- Objetivos: 
+  - Maximizar ganancias
+  - Minimizar riesgos
+
 # ¿Qué es el Trading Algorítmico?
 
 - Uso de algoritmos para hacer trading de forma automática
 - Basado en un conjunto definido de criterios
-- Ejemplo básico en Python
-
-```python
-  if precio_actual > media_móvil:
-      comprar()
-  else:
-      vender()
-```
 
 ---
 # Ventajas del Trading Algorítmico
@@ -56,15 +55,16 @@ theme: default
 
 ---
 
-# Herramientas en Python para Trading Algorítmico
+# Ejemplo de algoritmo de trading
 
-- Pandas para el manejo de datos
-- Matplotlib para la visualización
-- QuantConnect y Backtrader para el backtesting
+```python
+  if precio_actual > media_móvil:
+      comprar()
+  else:
+      vender()
+```
 
 ---
-
-
 
 # Ejercicio en Clase
 
@@ -81,6 +81,7 @@ def estrategia_simple(precio_actual, media_móvil):
 ```
 
 ---
+
 
 # Preguntas
 
