@@ -4,7 +4,7 @@ theme: default
 ---
 
 # Curso de Python y Trading Algorítmico
-## Día 7: Análisis Técnico y Python
+## Día 7: Carga y visualización de datos financieros
 
 ---
 

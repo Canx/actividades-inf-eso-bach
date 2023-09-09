@@ -39,6 +39,40 @@ theme: default
 
 ---
 
+# Concepto de Media Móvil
+
+- Es un indicador que suaviza los precios de un activo financiero a lo largo de un periodo de tiempo definido.
+- Ayuda a identificar la dirección de la tendencia.
+- Tipos comunes:
+  - Media Móvil Simple (SMA)
+  - Media Móvil Exponencial (EMA)
+
+---
+
+# Media Móvil Simple (SMA)
+
+- Calculada tomando el precio promedio en un número específico de períodos.
+
+  ```python
+  def sma(prices, window):
+      return sum(prices[-window:]) / window
+  ```
+---
+
+# Media Móvil Exponencial (EMA)
+
+Da más peso a los precios más recientes.
+
+Más sensible a las fluctuaciones del precio.
+
+```python
+def ema(prices, window, previous_ema):
+    multiplier = 2 / (window + 1)
+    return (prices[-1] - previous_ema) * multiplier + previous_ema
+```
+
+
+
 # Librería TA-Lib (Technical Analysis Library)
 
 - Biblioteca de software de código abierto para análisis técnico
