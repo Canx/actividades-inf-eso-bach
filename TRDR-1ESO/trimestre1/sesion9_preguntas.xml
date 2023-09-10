@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<quiz>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Todos los miembros de [grupo étnico] deberían ser deportados.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración es un discurso de odio que apunta a un grupo étnico específico.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;No me gusta la pizza.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración es una opinión personal y no es un discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="0"/>
+    <answer fraction="100"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Las mujeres no deberían tener los mismos derechos que los hombres.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración es un discurso de odio que discrimina por género.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Creo que cada país debería cuidar de sus propios ciudadanos primero.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración puede interpretarse de muchas maneras y no es necesariamente un discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="0"/>
+    <answer fraction="100"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Es natural que algunos grupos sean más inteligentes que otros.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración sugiere una jerarquía de inteligencia basada en grupos, lo cual es una forma de discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;No todos los que vienen de [país] son malos.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Aunque parece una afirmación inclusiva, la declaración también sugiere que hay una expectativa de que las personas de ese país son &quot;malas&quot;, lo cual es una forma de discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Esos grupos siempre están pidiendo derechos especiales.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración minimiza las luchas por la igualdad de derechos como si fueran peticiones de &quot;derechos especiales&quot;, lo cual es una forma de discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Si no te gusta [país], ¡vete!&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración sugiere que si alguien critica a un país, no debería estar en él, lo cual es una forma de discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;La gente debería vestirse de acuerdo a su cultura de origen.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración sugiere que las personas deben adherirse a normas culturales basadas en su origen, lo cual es una forma de discurso de odio.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="100"/>
+    <answer fraction="0"/>
+  </question>
+  <question type="multichoice">
+    <questiontext format="html">
+      <text>&lt;![CDATA[¿Es este un discurso de odio? &quot;Solo estoy diciendo lo que todos están pensando.&quot;]]&gt;</text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text>&lt;![CDATA[Esta declaración en sí misma no es un discurso de odio, pero a menudo se utiliza para justificarlo.]]&gt;</text>
+    </generalfeedback>
+    <answer fraction="0"/>
+    <answer fraction="100"/>
+    <answer fraction="0">
+      <text>Sí</text>
+    </answer>
+    <answer fraction="100">
+      <text>No</text>
+    </answer>
+  </question>
+</quiz>
