@@ -17,10 +17,10 @@ Nota del orador:
 
 # ¿Qué aprenderemos este año?
 
-- Uso responsable de dispositivos digitales 📱💻
-- Cómo buscar y organizar información de forma inteligente 🌐📚
-- Construir y proteger tu identidad digital 👤🔒
-- Mantener relaciones saludables en entornos digitales 👫🌐
+1. Uso responsable de dispositivos 📱
+2. Buscar y organizar información 🌐
+3. Proteger tu identidad digital 👤
+4. Relaciones saludables en línea 👫
 
 <!-- 
 Nota del orador: 
@@ -29,19 +29,11 @@ Nota del orador:
 
 ---
 
-# Bloque 1: Dispositivos digitales y Internet 🌐
-
-## Competencias específicas
+# Bloque 1: Dispositivos e Internet 🌐
 
 - Conexión segura a Internet
-- Implicaciones del uso de tecnología en salud y medio ambiente
-- Hábitos de seguridad
-
-## Saberes básicos
-
-- Conocer los dispositivos comunes
-- Acceso a Internet y redes
-- La brecha digital
+- Uso saludable de la tecnología
+- Seguridad básica
 
 <!-- 
 Nota del orador: 
@@ -51,19 +43,11 @@ Nota del orador:
 
 ---
 
-# Bloque 2: Información y Contenidos Digitales 📚
+# Bloque 2: Información y Contenidos 📚
 
-## Competencias específicas
-
-- Buscar y seleccionar información
-- Detectar noticias falsas y discursos de odio
-- Crear contenidos digitales
-
-## Saberes básicos
-
-- Tipos de buscadores web
-- Propiedad intelectual y derechos de autor
-- Organización de la información
+- Seleccionar información fiable
+- Detectar noticias falsas
+- Crear contenidos creativos
 
 <!-- 
 Nota del orador: 
@@ -75,17 +59,9 @@ Nota del orador:
 
 # Bloque 3: Identidad Digital 👤
 
-## Competencias específicas
-
-- Representar tu identidad en Internet
+- Tu identidad en Internet
 - Proteger tus datos personales
-- Adoptar conductas seguras
-
-## Saberes básicos
-
-- Autoconcepto y percepción externa
-- La huella digital
-- Privacidad en la red
+- Conductas seguras en línea
 
 <!-- 
 Nota del orador: 
@@ -95,19 +71,11 @@ Nota del orador:
 
 ---
 
-# Bloque 4: Relaciones en el Entorno Digital 👫
+# Bloque 4: Relaciones en línea 👫
 
-## Competencias específicas
-
-- Analizar plataformas de interacción social
-- Fomentar relaciones respetuosas
-- Identificar comportamientos abusivos
-
-## Saberes básicos
-
-- Amistad virtual y física
-- Ciberconvivencia
-- Riesgos y amenazas en línea
+- Plataformas sociales
+- Relaciones respetuosas
+- Cómo enfrentar comportamientos abusivos
 
 <!-- 
 Nota del orador: 
@@ -117,12 +85,12 @@ Nota del orador:
 
 ---
 
-# Proyectos y Actividades 🎨
+# Proyectos Ejemplo 🎨
 
-- Crear un blog seguro 🌐
-- Diseñar posters sobre ciberseguridad 🎨
-- Debates sobre noticias falsas 🗣️
-- Juegos de rol sobre relaciones digitales 🎭
+1. Blog sobre ciberseguridad 🌐
+2. Posters anti noticias falsas 🎨
+3. Debates sobre privacidad 🗣️
+4. Juego de rol: "Amistad en la era digital" 🎭
 
 <!-- 
 Nota del orador: 
