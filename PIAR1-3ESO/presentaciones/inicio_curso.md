@@ -2,11 +2,6 @@
 marp: true
 ---
 
----
-marp: true
-theme: default
----
-
 # Bienvenidos al Curso
 ## Programación, Robótica e Inteligencia Artificial
 
