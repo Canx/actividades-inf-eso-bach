@@ -26,6 +26,8 @@ size: 16:9
 - Excepcionalmente, se avisará al profesor y se utilizará el usuario invitado.
 - IMPORTANTE! El usuario invitado no guarda la información entre sesiones!
 
+---
+
 ### Alimentos y dispositivos
 
 - Está prohibido comer o beber en el aula.
