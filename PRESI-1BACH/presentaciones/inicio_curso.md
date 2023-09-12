@@ -32,13 +32,23 @@ Vamos a desarrollar habilidades en:
 - Crear tu primer videojuego 🎮
 - Diseñar una app móvil 📱
 
+---
+
+## 🎮 Proyectos y Actividades
+
 ### Bloque 2: Sistemas Informáticos
 - Montar y configurar tu propio PC 🖥️
 - Instalar y personalizar un sistema operativo 🐧
 
+---
+## 🎮 Proyectos y Actividades
+
 ### Bloque 3: Redes
 - Configurar una red local segura 🔒
 - Diseñar un mini-internet 🌐
+
+---
+## 🎮 Proyectos y Actividades
 
 ### Bloque 4: Servicios en Red
 - Crear tu propio blog 📝
