@@ -19,6 +19,13 @@ size: 16:9
 
 ---
 
+### Usuarios
+
+- Se utilizará el usuario CDC de Microsoft (consultar WebFamilia o al profesor).
+- La consulta repetitiva por olvido del usuario bajará nota de actitud.
+- Excepcionalmente, se avisará al profesor y se utilizará el usuario invitado.
+- IMPORTANTE! El usuario invitado no guarda la información entre sesiones!
+
 ### Alimentos y dispositivos
 
 - Está prohibido comer o beber en el aula.
@@ -46,6 +53,13 @@ size: 16:9
 
 - Los alumnos son responsables de su propio puesto de trabajo.
 - Deben dejarlo ordenado y limpio al finalizar la clase.
+
+---
+
+### Actitud y Compañerismo
+
+- Se valorará una actitud proactiva en clase: pensar la solución, colaborar, preguntar,...
+- Se valorará la ayuda prestada a los compañeros.
 
 ---
 
