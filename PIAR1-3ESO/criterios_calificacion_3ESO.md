@@ -14,7 +14,7 @@
 
 - Evaluación superada: Nota >= 5
 - Evaluación no superada: Nota < 5
-- Redondeo solo si la nota final >= 5
+- Redondeo solo si la nota final >= 5 (Ej: 4.6 suspenso)
 
 ---
 
