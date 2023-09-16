@@ -1,6 +1,4 @@
-# Update the Marp presentation content to include the maze image and remove the text "Ejemplo para niños"
-
-final_marp_content_updated = """---
+---
 marp: true
 ---
 
@@ -50,7 +48,7 @@ Notas para el orador:
 
 ---
 
-# Descomposición: Ejemplo
+# Descomposición
 
 - **Montar un rompecabezas**: Dividir las piezas del rompecabezas en bordes y centro.
 
@@ -68,7 +66,7 @@ Notas para el orador:
 
 ---
 
-# Reconocimiento de Patrones: Ejemplo
+# Reconocimiento de Patrones
 
 - **Jugar al "Veoveo"**: Identificar objetos por su color o forma.
 
@@ -86,7 +84,7 @@ Notas para el orador:
 
 ---
 
-# Abstracción: Ejemplo
+# Abstracción
 
 - **Crear un Mapa del Barrio**: Dibujar solo las calles y las intersecciones importantes, ignorando casas y árboles.
 
@@ -104,7 +102,7 @@ Notas para el orador:
 
 ---
 
-# Diseño de Algoritmos: Ejemplo
+# Diseño de Algoritmos
 
 - **Rutina de la Mañana**: Hacer una lista de tareas para prepararse para la escuela.
 
@@ -119,5 +117,41 @@ Notas para el orador:
 
 ![Laberinto para la Actividad](maze_activity.png)
 
-1. Descomposición del problema: Dividir el laberinto en zonas más pequeñas para facilitar la navegación.
-2. Reconocimiento de patrones: Identificar cam
+<!--
+Notas para el orador:  
+- Distribuir hojas impresas del laberinto o mostrarlo en la pantalla.
+- Guía a los estudiantes a través de la actividad, destacando cómo se aplican los conceptos clave.
+- Puedes optar por usar un laberinto preimpreso o dibujar uno en el pizarrón.
+-->
+
+---
+
+# Algoritmos Detallados para Resolver el Laberinto
+
+1. **El Derechista**:
+    - Instrucciones: Gira a la derecha en intersecciones. Si no puedes, sigue recto o gira a la izquierda.
+    
+2. **El Izquierdista**: 
+    - Instrucciones: Gira a la izquierda en intersecciones. Si no puedes, sigue recto o gira a la derecha.
+    
+3. **Avanzar y Retroceder**: 
+    - Instrucciones: Avanza hasta un callejón sin salida, luego retrocede a la última intersección y toma un nuevo camino.
+    
+4. **El Zigzag**: 
+    - Instrucciones: Alterna entre girar a la izquierda y a la derecha en cada intersección.
+    
+5. **El Explorador**: 
+    - Instrucciones: Toma caminos no explorados. Si todos están explorados, retrocede a la última intersección.
+    
+6. **El Método del Bucle**: 
+    - Instrucciones: En intersecciones con tres o más caminos, elige el primer camino a la derecha y sigue en círculos.
+    
+7. **El Método del Rastreador**: 
+    - Instrucciones: Mantén tu mano izquierda tocando una pared en todo momento y avanza.
+
+<!--
+Notas para el orador:  
+- Explicar que estos algoritmos son guías que los estudiantes pueden seguir o adaptar para resolver el laberinto.
+- Invitar a los estudiantes a escoger uno o inventar el suyo propio antes de comenzar la actividad.
+-->
+
