@@ -16,6 +16,24 @@ footer: "Digitalización - 4ESO (24/25)"
 
 ---
 
+# Contenidos del Curso 📚
+
+1. **Diseño de infraestructura digital**: redes, sistemas operativos y seguridad.
+2. **Creación de contenido digital**: aplicaciones, sitios web y multimedia.
+3. **Organización del entorno digital**: gestión de archivos, herramientas colaborativas.
+4. **Seguridad digital**: protección de datos y privacidad.
+5. **Ciudadanía digital**: comercio electrónico y ética tecnológica.
+
+---
+
+# Filosofía del Curso 💡
+
+- **Innovación**: Desarrollar ideas tecnológicas creativas.
+- **Colaboración**: Trabajar en equipos como lo hacen en las startups reales.
+- **Emprendimiento social**: Contribuir con soluciones a problemas globales.
+
+---
+
 # Construyendo el Futuro Juntos 🌍💻
 
 > **¿Qué significa ser un agente de cambio?**
@@ -46,21 +64,41 @@ Estamos aquí para construir el futuro juntos, y cada uno de ustedes tiene una p
 
 ---
 
-# Filosofía del Curso 💡
+# **Objetivos de Desarrollo Sostenible (ODS)**
 
-- **Innovación**: Desarrollar ideas tecnológicas creativas.
-- **Colaboración**: Trabajar en equipos como lo hacen en las startups reales.
-- **Emprendimiento social**: Contribuir con soluciones a problemas globales.
+- Conjunto de **17 objetivos globales** establecidos por la ONU.
+- Su finalidad es **erradicar la pobreza, proteger el planeta** y asegurar la prosperidad para todos para 2030.
+- Cada ODS aborda **problemas mundiales** urgentes como la educación, el cambio climático, la igualdad, y el crecimiento económico.
 
 ---
 
-# Contenidos del Curso 📚
+# **ODS: Un enfoque práctico para el cambio**
 
-1. **Diseño de infraestructura digital**: redes, sistemas operativos y seguridad.
-2. **Creación de contenido digital**: aplicaciones, sitios web y multimedia.
-3. **Organización del entorno digital**: gestión de archivos, herramientas colaborativas.
-4. **Seguridad digital**: protección de datos y privacidad.
-5. **Ciudadanía digital**: comercio electrónico y ética tecnológica.
+- Nos desafían a **tomar acción** desde nuestras comunidades.
+- **¿Por qué es importante para ti?** Porque como estudiantes y futuros emprendedores, pueden ayudar a mejorar nuestro entorno.
+- **Ejemplo:** Si te apasiona el medio ambiente, puedes enfocarte en energía limpia o acción por el clima.
+
+---
+
+# **Los 17 Objetivos de Desarrollo Sostenible**
+
+1. Fin de la pobreza
+2. Hambre cero
+3. Salud y bienestar
+4. Educación de calidad
+5. Igualdad de género
+6. Agua limpia y saneamiento
+7. Energía asequible y no contaminante
+8. Trabajo decente y crecimiento económico
+9. Industria, innovación e infraestructura
+10. Reducción de las desigualdades
+11. Ciudades y comunidades sostenibles
+12. Producción y consumo responsables
+13. Acción por el clima
+14. Vida submarina
+15. Vida de ecosistemas terrestres
+16. Paz, justicia e instituciones sólidas
+17. Alianzas para lograr los objetivos
 
 ---
 
@@ -85,26 +123,28 @@ Estamos aquí para construir el futuro juntos, y cada uno de ustedes tiene una p
 
 ---
 
-# Inspiración: Startups sostenibles 🌱
+# **¿Cómo encajan los ODS en nuestro curso?**
 
-- **Too Good To Go**: Reduce desperdicio alimentario (ODS 12).
-- **Bioo**: Energía renovable a través de plantas (ODS 7).
-- **Watergen**: Agua potable del aire (ODS 6).
-
----
-
-# Ejemplos de ODS para tu startup 🌐
-
-- **ODS 3 - Salud y Bienestar**: Plataforma de telemedicina accesible.
-- **ODS 4 - Educación de Calidad**: Cursos online interactivos para áreas rurales.
-- **ODS 7 - Energía Asequible y No Contaminante**: Dispositivos solares portátiles.
-- **ODS 11 - Ciudades Sostenibles**: App para gestión inteligente de transporte.
+- A lo largo del año, trabajarás en la creación de una **startup** que contribuye a un ODS.
+- **Elegirás un objetivo** que te apasione y desarrollarás una idea de negocio para generar un impacto positivo.
+- Ejemplos:
+  - **ODS 6: Agua limpia y saneamiento** -> Empresa de filtración de agua.
+  - **ODS 12: Producción responsable** -> Empresa de reciclaje.
 
 ---
 
-# El Futuro Está en tus Manos 🌟
+# **Reflexión personal**
 
-> "El mundo necesita tus ideas, y ahora tienes las herramientas para hacerlas realidad."
+- ¿Cuál de los ODS crees que es más relevante para tu comunidad o tus intereses?
+- ¿Qué problemas ves a tu alrededor que podrías ayudar a resolver con una startup?
+- **Piensa en grande:** Tu idea puede marcar la diferencia.
+
+---
+
+# **¡Tu ODS, tu oportunidad!**
+
+- En las próximas semanas, **elegirás un ODS** y comenzarás a trabajar en la creación de tu startup.
+- Cada empresa tendrá como misión contribuir a un objetivo concreto de desarrollo sostenible.
 
 ---
 
