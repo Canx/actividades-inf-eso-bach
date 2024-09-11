@@ -5,6 +5,9 @@ marp: true
 # Bienvenidos al Curso
 ## Programación, Robótica e Inteligencia Artificial
 
+Profesor: Rubén Cancho Gasulla
+email: r.cancho@edu.gva.es
+
 ---
 
 ## ¿Qué Aprenderemos?
