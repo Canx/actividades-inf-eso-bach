@@ -12,9 +12,13 @@
    **Actividad adicional para alumnos avanzados**:
    - Crear un foro en Moodle y personalizar sus perfiles.
 
+---
+
 2. **Exploración de Moodle (30 min)**
    - **Práctica**: Los alumnos navegan por Moodle, familiarizándose con la plataforma.
    - **Evaluación**: Supervisar cómo se manejan en la plataforma.
+
+---
 
 #### **Día 2 (1h)**
 
@@ -43,6 +47,8 @@
 
 2. **Cierre de la sesión (15 min)**
 
+---
+
 #### **Día 2 (1h)**
 
 1. **Finalización del documento de reglas de clase (40 min)**
@@ -68,6 +74,8 @@
    - Competir en un torneo de mecanografía utilizando plataformas como [TypeRacer](https://play.typeracer.com/).
 
 2. **Cierre y análisis de resultados (20 min)**
+
+---
 
 #### **Día 2 (1h)**
 
