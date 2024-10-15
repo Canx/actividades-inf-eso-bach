@@ -39,6 +39,7 @@ Notas para el orador:
 - Indicar que a continuación se mostrarán ejemplos de cada uno.
 -->
 
+
 ---
 
 # Descomposición
@@ -50,12 +51,8 @@ Notas para el orador:
 
 # Descomposición
 
-- **Montar un rompecabezas**: Dividir las piezas del rompecabezas en bordes y centro.
+- **Ejemplo**: Montar un rompecabezas: Dividir las piezas del rompecabezas en bordes y centro.
 
-<!--
-Notas para el orador:  
-- Explicar cómo dividir un problema grande en partes más pequeñas hace que sea más fácil de manejar.
--->
 
 ---
 
@@ -68,12 +65,8 @@ Notas para el orador:
 
 # Reconocimiento de Patrones
 
-- **Jugar al "Veoveo"**: Identificar objetos por su color o forma.
+- **Ejemplo**: Jugar al "Veoveo": Identificar objetos por su color o forma.
 
-<!--
-Notas para el orador:  
-- Mostrar cómo reconocer patrones puede ayudar en juegos y en la vida cotidiana.
--->
 
 ---
 
@@ -86,12 +79,8 @@ Notas para el orador:
 
 # Abstracción
 
-- **Crear un Mapa del Barrio**: Dibujar solo las calles y las intersecciones importantes, ignorando casas y árboles.
+- **Ejemplo**: Crear un Mapa del Barrio: Dibujar solo las calles y las intersecciones importantes, ignorando casas y árboles.
 
-<!--
-Notas para el orador:  
-- Explicar cómo la abstracción ayuda a enfocarse en la información relevante, haciendo la tarea más eficiente.
--->
 
 ---
 
@@ -104,12 +93,8 @@ Notas para el orador:
 
 # Diseño de Algoritmos
 
-- **Rutina de la Mañana**: Hacer una lista de tareas para prepararse para la escuela.
+- **Ejemplo**: Rutina de la Mañana: Hacer una lista de tareas para prepararse para la escuela.
 
-<!--
-Notas para el orador:  
-- Hablar sobre cómo diseñar un algoritmo puede ayudar a alcanzar un objetivo específico, como prepararse para la escuela de manera eficiente.
--->
 
 ---
 
@@ -124,34 +109,113 @@ Notas para el orador:
 - Puedes optar por usar un laberinto preimpreso o dibujar uno en el pizarrón.
 -->
 
+
 ---
 
-# Algoritmos Detallados para Resolver el Laberinto
+# El Derechista
 
-1. **El Derechista**:
-    - Instrucciones: Gira a la derecha en intersecciones. Si no puedes, sigue recto o gira a la izquierda.
-    
-2. **El Izquierdista**: 
-    - Instrucciones: Gira a la izquierda en intersecciones. Si no puedes, sigue recto o gira a la derecha.
-    
-3. **Avanzar y Retroceder**: 
-    - Instrucciones: Avanza hasta un callejón sin salida, luego retrocede a la última intersección y toma un nuevo camino.
-    
-4. **El Zigzag**: 
-    - Instrucciones: Alterna entre girar a la izquierda y a la derecha en cada intersección.
-    
-5. **El Explorador**: 
-    - Instrucciones: Toma caminos no explorados. Si todos están explorados, retrocede a la última intersección.
-    
-6. **El Método del Bucle**: 
-    - Instrucciones: En intersecciones con tres o más caminos, elige el primer camino a la derecha y sigue en círculos.
-    
-7. **El Método del Rastreador**: 
-    - Instrucciones: Mantén tu mano izquierda tocando una pared en todo momento y avanza.
+- **Instrucciones**: Gira a la derecha en intersecciones. Si no puedes, sigue recto o gira a la izquierda.
 
 <!--
 Notas para el orador:  
-- Explicar que estos algoritmos son guías que los estudiantes pueden seguir o adaptar para resolver el laberinto.
-- Invitar a los estudiantes a escoger uno o inventar el suyo propio antes de comenzar la actividad.
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
 -->
 
+
+---
+
+# El Izquierdista
+
+- **Instrucciones**: Gira a la izquierda en intersecciones. Si no puedes, sigue recto o gira a la derecha.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+
+# Avanzar y Retroceder
+
+- **Instrucciones**: Avanza hasta un callejón sin salida, luego retrocede a la última intersección y toma un nuevo camino.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+
+# El Zigzag
+
+- **Instrucciones**: Alterna entre girar a la izquierda y a la derecha en cada intersección.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+
+# El Explorador
+
+- **Instrucciones**: Toma caminos no explorados. Si todos están explorados, retrocede a la última intersección.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+
+# El Método del Bucle
+
+- **Instrucciones**: En intersecciones con tres o más caminos, elige el primer camino a la derecha y sigue en círculos.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+
+# El Método del Rastreador
+
+- **Instrucciones**: Mantén tu mano izquierda tocando una pared en todo momento y avanza.
+
+<!--
+Notas para el orador:  
+- Explicar cómo este algoritmo puede aplicarse para resolver laberintos.
+- Puedes pedir a los estudiantes que lo prueben en el laberinto impreso o en la pizarra.
+-->
+
+
+---
+# Laberinto de Ejemplo
+
+```plaintext
+🟩 🟩 🟩 🟩 🟩 🟩 🟩
+🟩 🟨 🟦 🟦 🟦 🟦 🟩
+🟩 🟦 🟩 🟩 🟩 🟦 🟩
+🟩 🟦 🟩 🟩 🟩 🟦 🟩
+🟩 🟦 🟩 🟩 🟩 🟦 🟩
+🟩 🟦 🟦 🟦 🟦 🟩 🟩
+🟩 🟩 🟩 🟩 🟩 🟩 🟩
+```
+
+<!--
+Notas para el orador:  
+- Este es un laberinto de ejemplo utilizando emojis.
+- Puedes explicar cómo resolver este laberinto utilizando los algoritmos discutidos.
+-->
