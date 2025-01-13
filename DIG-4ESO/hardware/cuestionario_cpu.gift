@@ -1,0 +1,188 @@
+// Preguntas introductorias sobre la CPU
+::¿Qué es una CPU?::
+¿Cuál es la función principal de la CPU en un ordenador? {
+    ~Almacenar datos a largo plazo
+    ~Mostrar gráficos en pantalla
+    =Ejecutar instrucciones y procesar datos
+    ~Controlar el flujo de energía
+}
+
+// ¿Por qué es importante la CPU?
+::Importancia de la CPU::
+¿Por qué la CPU es considerada el "cerebro" del ordenador? {
+    ~Porque controla únicamente la memoria RAM
+    =Porque coordina y ejecuta todas las operaciones principales del sistema
+    ~Porque gestiona únicamente la energía del sistema
+    ~Porque se encarga de la ventilación
+}
+
+// Componentes básicos de una CPU
+::Partes de una CPU::
+¿Cuáles son los principales componentes internos de una CPU? {
+    ~Unidad de almacenamiento y controlador de gráficos
+    =Unidad de control, Unidad aritmético-lógica (ALU) y registros
+    ~Ventilador y disipador térmico
+    ~Memoria externa
+}
+
+// Velocidad de una CPU
+::Velocidad de una CPU::
+¿Cómo se mide la velocidad de una CPU? {
+    ~En gigabytes (GB)
+    =En gigahercios (GHz)
+    ~En píxeles por segundo
+    ~En vatios (W)
+}
+
+// Multiprocesamiento
+::Multiprocesamiento en la CPU::
+¿Qué ventaja ofrece una CPU con múltiples núcleos? {
+    ~Menor necesidad de disipadores de calor
+    =Mayor capacidad para ejecutar múltiples procesos simultáneamente
+    ~Reducción del consumo energético en tarjetas gráficas
+    ~Mejora la calidad de los gráficos
+}
+
+// ¿Qué es un hilo en la CPU?
+::Hilos en la CPU::
+¿Qué representa un hilo en una CPU? {
+    ~Un componente físico de la CPU
+    =Una unidad virtual de procesamiento que puede ejecutar tareas
+    ~Una conexión física entre la CPU y la GPU
+    ~Un registro de datos temporales
+}
+
+// Relación entre núcleos e hilos
+::Relación entre núcleos e hilos::
+En las CPU modernas, ¿cuál suele ser la relación entre núcleos e hilos? {
+    ~1 núcleo = 1 hilo siempre
+    =Cada núcleo puede manejar 1 o más hilos dependiendo de la arquitectura
+    ~1 hilo equivale a 2 núcleos
+    ~Depende de la tarjeta gráfica
+}
+
+// Socket de la CPU
+::Socket de la CPU::
+¿Qué es el socket de una CPU? {
+    ~Un componente interno de la CPU
+    =El tipo de conexión física entre la CPU y la placa base
+    ~Un protocolo de red que utiliza la CPU
+    ~Un adaptador de memoria RAM
+}
+
+// Diferencia entre CPU y GPU
+::Diferencia entre CPU y GPU::
+¿Cuál es la principal diferencia entre una CPU y una GPU? {
+    ~La GPU procesa todas las tareas del sistema operativo
+    =La CPU está diseñada para realizar tareas generales, mientras que la GPU está optimizada para procesamiento gráfico
+    ~La CPU maneja únicamente tareas gráficas
+    ~No hay diferencias funcionales entre CPU y GPU
+}
+
+// Qué es el caché de la CPU
+::Caché de la CPU::
+¿Qué función tiene el caché en una CPU? {
+    ~Almacenar datos a largo plazo como un disco duro
+    =Guardar datos de acceso rápido para mejorar el rendimiento
+    ~Enfriar la CPU durante operaciones intensivas
+    ~Ampliar la memoria RAM
+
+// Overclocking
+::¿Qué es el overclocking?::
+¿Qué significa realizar overclocking en una CPU? {
+    ~Reducir su velocidad para conservar energía
+    ~Cambiar el tipo de socket de la CPU
+    =Aumentar la frecuencia de operación más allá de las especificaciones de fábrica
+    ~Reemplazar los núcleos por hilos adicionales
+}
+
+// Preguntas sobre procesadores específicos
+::Intel Core i3-12100::
+¿Cuántos núcleos y hilos tiene el Intel Core i3-12100? {
+    ~6 núcleos, 12 hilos
+    =4 núcleos, 8 hilos
+    ~8 núcleos, 16 hilos
+    ~2 núcleos, 4 hilos
+}
+
+// Socket del Intel Core i3-12100
+::Socket del Intel Core i3-12100::
+¿Qué socket utiliza el Intel Core i3-12100? {
+    ~AM4
+    =LGA1700
+    ~AM5
+    ~LGA1151
+}
+
+// AMD Ryzen 5 5600X
+::AMD Ryzen 5 5600X::
+¿Cuántos núcleos y hilos tiene el AMD Ryzen 5 5600X? {
+    ~4 núcleos, 8 hilos
+    =6 núcleos, 12 hilos
+    ~8 núcleos, 16 hilos
+    ~12 núcleos, 24 hilos
+}
+
+// Socket del AMD Ryzen 5 5600X
+::Socket del AMD Ryzen 5 5600X::
+¿Qué socket utiliza el AMD Ryzen 5 5600X? {
+    ~AM5
+    =AM4
+    ~LGA1700
+    ~LGA1200
+}
+
+// Intel Core i7-13700K
+::Intel Core i7-13700K::
+¿Cuántos núcleos y hilos tiene el Intel Core i7-13700K? {
+    =16 núcleos, 24 hilos
+    ~8 núcleos, 16 hilos
+    ~12 núcleos, 20 hilos
+    ~6 núcleos, 12 hilos
+}
+
+// Socket del Intel Core i7-13700K
+::Socket del Intel Core i7-13700K::
+¿Qué socket utiliza el Intel Core i7-13700K? {
+    ~AM4
+    =LGA1700
+    ~AM5
+    ~LGA1151
+}
+
+// AMD Ryzen 7 5800X3D
+::AMD Ryzen 7 5800X3D::
+¿Cuántos núcleos y hilos tiene el AMD Ryzen 7 5800X3D? {
+    =8 núcleos, 16 hilos
+    ~6 núcleos, 12 hilos
+    ~12 núcleos, 24 hilos
+    ~4 núcleos, 8 hilos
+}
+
+// Socket del AMD Ryzen 7 5800X3D
+::Socket del AMD Ryzen 7 5800X3D::
+¿Qué socket utiliza el AMD Ryzen 7 5800X3D? {
+    =AM4
+    ~AM5
+    ~LGA1700
+    ~LGA1200
+}
+
+// AMD Ryzen 9 7900X
+::AMD Ryzen 9 7900X::
+¿Cuántos núcleos y hilos tiene el AMD Ryzen 9 7900X? {
+    ~8 núcleos, 16 hilos
+    =12 núcleos, 24 hilos
+    ~16 núcleos, 32 hilos
+    ~6 núcleos, 12 hilos
+}
+
+// Socket del AMD Ryzen 9 7900X
+::Socket del AMD Ryzen 9 7900X::
+¿Qué socket utiliza el AMD Ryzen 9 7900X? {
+    ~AM4
+    =AM5
+    ~LGA1700
+    ~LGA1151
+}
+
