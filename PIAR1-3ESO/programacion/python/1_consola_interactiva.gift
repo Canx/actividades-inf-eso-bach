@@ -1,0 +1,121 @@
+La consola interactiva de Python
+::Question 1::
+:: Verdadero/Falso ::
+"La consola interactiva de Python se utiliza para ejecutar y probar código de manera inmediata."
+{TRUE}
+
+::Question 2::
+:: Opción múltiple ::
+"¿Qué ocurre cuando introduces el comando `5 + 3` en la consola interactiva de Python?"
+{
+~ "Muestra un error."
+~ "Muestra una ventana emergente."
+= "Muestra el resultado 8."
+~ "Cierra la consola."
+}
+
+::Question 3::
+:: Opción múltiple ::
+"¿Qué operador se utiliza en Python para realizar la multiplicación?"
+{
+~ "+"
+~ "-"
+= "*"
+~ "/"
+}
+
+::Question 4::
+:: Opción múltiple ::
+"¿Qué ocurre si intentas dividir por cero en la consola interactiva?"
+{
+~ "Muestra el resultado infinito."
+~ "Ignora el comando."
+= "Muestra un mensaje de error."
+~ "Cierra la consola automáticamente."
+}
+
+::Question 5::
+:: Verdadero/Falso ::
+"Puedes usar la consola interactiva para definir funciones de Python."
+{TRUE}
+
+::Question 6::
+:: Opción múltiple ::
+"¿Cómo se denomina un número con decimales en Python?"
+{
+~ "Número entero"
+= "Número de punto flotante"
+~ "Número imaginario"
+~ "Número racional"
+}
+
+::Question 7::
+:: Opción múltiple ::
+"¿Qué operador se utiliza para elevar un número a una potencia en Python?"
+{
+~ "^"
+~ "&"
+= "**"
+~ "//"
+}
+
+::Question 8::
+:: Verdadero/Falso ::
+"Las expresiones siempre se evalúan en orden de izquierda a derecha sin importar los operadores."
+{FALSE}
+
+::Question 9::
+:: Opción múltiple ::
+"¿Cómo se almacena un valor en una variable en Python?"
+{
+~ "variable:valor"
+= "variable = valor"
+~ "variable == valor"
+~ "variable > valor"
+}
+
+::Question 10::
+:: Opción múltiple ::
+"¿Qué representa el operador `%` en Python?"
+{
+~ "División entera"
+~ "Suma de números flotantes"
+= "Módulo (residuo de la división)"
+~ "Potencia"
+}
+
+::Question 11::
+:: Opción múltiple ::
+"¿Cuál de los siguientes es un número entero en Python?"
+{
+= "4"
+~ "3.5"
+~ "42.1"
+~ "5.0"
+}
+
+::Question 12::
+:: Opción múltiple ::
+"¿Qué tipo de valor devuelve el operador `/` en Python?"
+{
+~ "Entero"
+= "Flotante"
+~ "Cadena"
+~ "Booleano"
+}
+
+::Question 13::
+:: Verdadero/Falso ::
+"Las variables en Python pueden almacenar expresiones completas, no solo valores."
+{FALSE}
+
+::Question 14::
+:: Opción múltiple ::
+"¿Qué ocurre si usas una variable antes de asignarle un valor?"
+{
+~ "La variable se inicializa automáticamente en 0."
+= "Se produce un NameError."
+~ "La consola ignora la variable."
+~ "Python devuelve un valor predeterminado."
+}
+
