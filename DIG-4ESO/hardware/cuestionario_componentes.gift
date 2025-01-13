@@ -1,0 +1,114 @@
+// Cuestionario inicial sobre los componentes informáticos
+
+::¿Qué es la CPU?::
+¿Cuál es la función principal de la CPU en un ordenador? {
+    ~Almacenar datos a largo plazo
+    ~Mostrar gráficos en pantalla
+    =Ejecutar instrucciones y procesar datos
+    ~Controlar el flujo de energía
+}
+
+::¿Qué es la RAM?::
+¿Cuál es el propósito de la memoria RAM en un ordenador? {
+    ~Almacenar datos permanentemente
+    =Almacenar datos temporalmente para que la CPU acceda rápidamente
+    ~Procesar gráficos de alta calidad
+    ~Reducir el consumo energético
+}
+
+::¿Qué es un disco duro (HDD)?::
+¿Qué función realiza un disco duro (HDD)? {
+    =Almacenar datos permanentemente
+    ~Procesar instrucciones de software
+    ~Aumentar la velocidad del ordenador
+    ~Almacenar datos temporalmente como la RAM
+}
+
+::¿Qué diferencia hay entre un HDD y un SSD?::
+¿Cuál es la principal diferencia entre un disco duro (HDD) y una unidad de estado sólido (SSD)? {
+    =Los SSD son mucho más rápidos que los HDD
+    ~Los HDD consumen menos energía que los SSD
+    ~Los SSD almacenan datos temporalmente, mientras que los HDD los almacenan permanentemente
+    ~Los HDD no necesitan conexión a la placa base
+}
+
+::¿Qué es la placa base?::
+¿Qué función tiene la placa base en un ordenador? {
+    =Conectar y coordinar todos los componentes del ordenador
+    ~Procesar datos y ejecutar instrucciones
+    ~Almacenar datos de forma permanente
+    ~Controlar la velocidad de los ventiladores
+}
+
+::¿Qué componente se utiliza para procesar gráficos?::
+¿Qué componente se encarga de procesar gráficos y renderizar imágenes? {
+    ~La CPU
+    =La tarjeta gráfica (GPU)
+    ~La RAM
+    ~El disco duro
+}
+
+::¿Qué es la fuente de alimentación?::
+¿Qué función realiza la fuente de alimentación en un ordenador? {
+    ~Refrigerar los componentes internos
+    =Proveer energía a todos los componentes del sistema
+    ~Aumentar la velocidad de la CPU
+    ~Conectar los dispositivos externos al ordenador
+}
+
+::¿Qué es el socket en una CPU?::
+¿Qué es un socket en el contexto de una CPU? {
+    ~Un programa para controlar la CPU
+    =El tipo de conexión física entre la CPU y la placa base
+    ~Un componente que mejora la velocidad de los núcleos
+    ~Una unidad de almacenamiento en caché
+}
+
+::¿Qué es el chipset?::
+¿Qué es un chipset en la placa base? {
+    ~Un tipo de procesador para gráficos
+    =Un conjunto de circuitos que controla la comunicación entre componentes
+    ~Un sistema de enfriamiento avanzado
+    ~Un tipo de memoria de alta velocidad
+}
+
+::¿Qué componente gestiona las tareas temporales del sistema?::
+¿Qué componente del ordenador almacena datos de acceso rápido mientras la CPU trabaja? {
+    ~El disco duro
+    =La memoria RAM
+    ~La GPU
+    ~La fuente de alimentación
+}
+
+::¿Qué significa TDP en una CPU?::
+¿Qué es el TDP (Thermal Design Power) en una CPU? {
+    ~La cantidad de datos que la CPU puede procesar en un segundo
+    =La cantidad de calor que genera la CPU y debe ser disipado
+    ~La velocidad máxima de reloj de la CPU
+    ~La capacidad de almacenamiento de la memoria caché
+}
+
+::¿Cuál es el componente principal para juegos de alto rendimiento?::
+¿Qué componente es esencial para un ordenador de juegos de alto rendimiento? {
+    ~El disco duro
+    ~La RAM
+    =La tarjeta gráfica (GPU)
+    ~La fuente de alimentación
+}
+
+::¿Qué componente influye en la velocidad de carga de programas?::
+¿Qué componente tiene mayor impacto en la velocidad de carga de programas y el sistema operativo? {
+    ~La fuente de alimentación
+    =El SSD (Unidad de Estado Sólido)
+    ~La GPU
+    ~La placa base
+}
+
+::¿Qué es un disipador?::
+¿Cuál es la función principal de un disipador de calor? {
+    =Disipar el calor generado por la CPU o GPU
+    ~Aumentar la velocidad de la CPU
+    ~Almacenar datos en la memoria caché
+    ~Controlar la velocidad del reloj de la CPU
+}
+
