@@ -4,7 +4,7 @@ Nuestro siguiente paso en este tutorial es dibujar algo en la pantalla. Para ell
 
 Al final de este capítulo, tendremos algo que se verá así. Es en gran medida lo mismo que en el capítulo anterior, pero ahora estamos dibujando un personaje en la pantalla:
 
-![Ejemplo de pantalla con personaje](images/title_02.png)
+![Ejemplo de pantalla con personaje](title_02.png)
 
 ### Texturas
 
