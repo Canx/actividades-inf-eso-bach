@@ -4,7 +4,7 @@ Hasta ahora, nuestro juego está tomando forma: ¡ya tenemos un personaje en la 
 
 Al final del capítulo, obtendremos algo similar a lo siguiente:
 
-![Ejemplo de pantalla con muchos sprites](images/title_03.png)
+![Ejemplo de pantalla con muchos sprites](title_03.png)
 
 ### SpriteList
 
