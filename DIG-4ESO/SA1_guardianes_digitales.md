@@ -1,10 +1,7 @@
 ### 📌 **Guardianes Digitales: Nuestro Manifiesto por un Entorno Online Seguro y Real**
 
-**Curso académico:** *(El que corresponda)*
+**Curso académico:** 4ESO
 **Materia / Ámbito:** Digitalización
-**Nivel:** 4º de Educación Secundaria Obligatoria
-**Grupo:** *(El que corresponda)*
-**Situación de aprendizaje nº:** 1
 
 #### **1. Contexto**
 Esta situación se enmarca en el contexto personal y social del alumnado. Los adolescentes viven inmersos en un entorno digital donde las redes sociales, los medios de comunicación online y las plataformas de mensajería instantánea son sus principales fuentes de información e interacción. Sin embargo, esta inmersión no siempre va acompañada de las herramientas críticas necesarias para desenvolverse de forma segura y saludable. El aula se convierte en el contexto educativo desde el que analizarán esa realidad para poder actuar sobre ella.
