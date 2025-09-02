@@ -106,3 +106,83 @@ Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se imp
 * **Herramientas de autoevaluación y coevaluación:**
     * Feedback entre pares en la Actividad 3.
     * **Formulario de metacognición** de la Actividad 6 como instrumento de autoevaluación.
+ 
+
+### **13. Desglose Detallado de Actividades**
+
+Este apartado amplía la información de la sección 7, ofreciendo una guía pormenorizada para la implementación de cada actividad en el aula.
+
+---
+**Actividad 1: "Punto de partida: Mi universo digital"**
+
+* **Objetivo Principal:** Diagnosticar las ideas y hábitos previos del alumnado sobre su vida digital y presentar el proyecto para generar motivación e implicación.
+* **Duración Estimada:** 1 sesión (50 min).
+* **Recursos Clave:** Proyector, pizarra digital interactiva o herramienta online (Mentimeter, Jamboard), altavoces.
+* **Desarrollo Paso a Paso:**
+    1.  **Lluvia de ideas (10 min):** Se lanza una encuesta anónima en tiempo real con preguntas directas: *“¿Cuál es la red social que más usas?”, “Define con una palabra cómo te sientes al usarla”, “Del 1 al 10, ¿cuánto confías en lo que ves online?”*. Los resultados se proyectan y comentan brevemente.
+    2.  **Análisis de caso (30 min):** Se presenta un caso real y reciente de desinformación viral o un reto online peligroso. Se debate en gran grupo sobre sus causas y consecuencias. Tras el debate, el/la docente conecta esa realidad con los objetivos de la materia y presenta formalmente el proyecto “Guardianes Digitales” y sus productos finales.
+    3.  **Formación de equipos (10 min):** Se organizan los grupos de trabajo y se les facilita la lista de temas de investigación para que realicen una primera deliberación.
+* **Rol del Docente:** Facilitador del debate, presentador del reto.
+* **Evidencia Generada:** Mapa visual con las ideas previas de la clase, listado de los grupos y su tema de investigación elegido.
+
+---
+**Actividad 2: "Kit de detective digital"**
+
+* **Objetivo Principal:** Dotar al alumnado de una metodología y herramientas concretas para analizar la información de forma crítica y rigurosa.
+* **Duración Estimada:** 2 sesiones (100 min).
+* **Recursos Clave:** Ordenadores con conexión a internet, proyector, enlaces a webs de *fact-checking* (Newtral, Maldita.es), documento de trabajo compartido por grupo.
+* **Desarrollo Paso a Paso:**
+    1.  **Sesión 1 - Instrucción directa y práctica guiada (50 min):** El/la docente explica los conceptos clave (*fake news*, sesgo, huella digital) y presenta el método de análisis de fuentes. Se realiza una demostración práctica de cómo verificar una noticia en directo. Los grupos aplican este método para encontrar y evaluar sus primeras 2-3 fuentes.
+    2.  **Sesión 2 - Investigación autónoma (50 min):** Los grupos trabajan de forma autónoma en la búsqueda y síntesis de información. El objetivo es que extraigan los datos y argumentos principales, redactándolos con sus propias palabras y anotando siempre la procedencia de la información.
+* **Rol del Docente:** Instructor, supervisor y consultor.
+* **Evidencia Generada:** Documento de investigación de cada grupo con un listado de fuentes evaluadas y el borrador con las ideas principales.
+
+---
+**Actividad 3: "Manos a la obra: creamos nuestro mensaje"**
+
+* **Objetivo Principal:** Desarrollar competencias en la creación de contenidos digitales, transformando la información investigada en un producto comunicativo eficaz y atractivo.
+* **Duración Estimada:** 2 sesiones (100 min).
+* **Recursos Clave:** Ordenadores, software de creación de contenido (Canva, CapCut, Genially, etc.), auriculares (si se trabaja con audio/vídeo).
+* **Desarrollo Paso a Paso:**
+    1.  **Sesión 1 - Planificación y diseño (50 min):** Cada grupo debe crear un guion o boceto de su producto digital antes de empezar a crearlo. Este debe definir el mensaje clave, la estructura y los elementos visuales/sonoros. El/la docente revisa y aprueba estos bocetos.
+    2.  **Sesión 2 - Producción y co-evaluación (50 min):** Los grupos se dedican a la producción del contenido. En los últimos 10 minutos, cada grupo muestra su trabajo en proceso a otro equipo para recibir un feedback constructivo e inmediato.
+* **Rol del Docente:** Asesor técnico y de contenido.
+* **Evidencia Generada:** Guion/boceto del producto. Producto digital final ("Radiografía Digital").
+
+---
+**Actividad 4: "Foro de Guardianes: compartimos para crecer"**
+
+* **Objetivo Principal:** Practicar la comunicación oral, compartir el conocimiento generado en cada grupo con toda la clase y recopilar las ideas fundamentales para el manifiesto.
+* **Duración Estimada:** 1 sesión (50 min).
+* **Recursos Clave:** Proyector, altavoces, pizarra colaborativa (Jamboard) o post-its físicos y un panel.
+* **Desarrollo Paso a Paso:**
+    1.  **Exposiciones (35 min):** Cada grupo presenta su "Radiografía Digital" en un tiempo limitado (ej. 4 minutos).
+    2.  **Escucha activa y recogida (durante las exposiciones):** Mientras un grupo expone, el resto tiene la tarea de escuchar activamente y anotar en post-its (digitales o físicos) las ideas, datos o consejos más impactantes.
+    3.  **Muro de ideas (15 min):** Al finalizar las exposiciones, todos los alumnos pegan sus post-its en un panel común, creando un repositorio visual de las conclusiones de toda la clase.
+* **Rol del Docente:** Moderador y gestor del tiempo.
+* **Evidencia Generada:** Presentación oral. Panel colaborativo con las ideas clave de todos los grupos.
+
+---
+**Actividad 5: "Nuestro Manifiesto"**
+
+* **Objetivo Principal:** Desarrollar habilidades de síntesis, debate y consenso para crear un producto colectivo que refleje el aprendizaje de toda la clase.
+* **Duración Estimada:** 1 sesión (50 min).
+* **Recursos Clave:** Proyector, documento de texto colaborativo (Google Docs).
+* **Desarrollo Paso a Paso:**
+    1.  **Análisis y categorización (15 min):** Se proyecta el muro de ideas de la sesión anterior. Entre todos, se agrupan las ideas en 5-7 categorías temáticas (ej: "Privacidad", "Respeto", "Verificación", etc.).
+    2.  **Redacción colaborativa (30 min):** Para cada categoría, se abre un debate para consensuar una norma o principio claro y conciso. El/la docente actúa como redactor, escribiendo en el documento proyectado la frase que la mayoría aprueba.
+    3.  **Validación (5 min):** Se lee en voz alta el decálogo completo para su aprobación final por parte de la clase.
+* **Rol del Docente:** Moderador del debate y editor.
+* **Evidencia Generada:** Documento final del "Manifiesto del Guardián/a Digital".
+
+---
+**Actividad 6: "Mirando hacia atrás para seguir adelante"**
+
+* **Objetivo Principal:** Realizar un ejercicio de metacognición para que el alumnado sea consciente de lo aprendido y de cómo puede aplicarlo en su vida.
+* **Duración Estimada:** 20 minutos (al final de la última sesión).
+* **Recursos Clave:** Formulario online (Google/Microsoft Forms) o el cuaderno de la materia.
+* **Desarrollo Paso a Paso:**
+    1.  **Reflexión individual (10 min):** El alumnado responde de forma personal a un breve cuestionario con preguntas clave: *¿Qué idea te ha resultado más útil?, ¿Qué hábito digital vas a cambiar?, ¿Cómo ha sido tu experiencia trabajando en grupo?*
+    2.  **Puesta en común (10 min):** Se invita a varios alumnos/as a compartir voluntariamente el hábito que se han propuesto cambiar, para reforzar el compromiso y cerrar el proyecto.
+* **Rol del Docente:** Facilitador de la reflexión.
+* **Evidencia Generada:** Respuestas del formulario de autoevaluación.
