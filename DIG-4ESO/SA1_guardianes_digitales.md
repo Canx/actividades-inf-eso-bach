@@ -108,12 +108,6 @@ Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se imp
     * **Formulario de metacognición** de la Actividad 6 como instrumento de autoevaluación.
  
 
-Claro, entiendo perfectamente. Quieres que el desglose de actividades sea una guía lo más detallada y práctica posible, incluyendo los recursos específicos para cada paso y priorizando el software libre y gratuito.
-
-Aquí tienes una versión revisada y ampliada del apartado 13, siguiendo tus indicaciones.
-
-***
-
 ### **13. Desglose Detallado de Actividades **
 
 Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la implementación de cada actividad, con ejemplos concretos y una selección de herramientas de software libre y de código abierto (FOSS).
