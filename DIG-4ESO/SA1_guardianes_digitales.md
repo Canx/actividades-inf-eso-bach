@@ -106,9 +106,8 @@ Siguiendo los principios del Diseño Universal para el Aprendizaje (DUA), se imp
 * **Herramientas de autoevaluación y coevaluación:**
     * Feedback entre pares en la Actividad 3.
     * **Formulario de metacognición** de la Actividad 6 como instrumento de autoevaluación.
- 
 
-#### **13. Desglose Detallado de Actividades **
+#### **13. Desglose Detallado de Actividades**
 
 Este apartado amplía la sección 7, ofreciendo una guía pormenorizada para la implementación de cada actividad, con ejemplos concretos y una selección de herramientas de software libre y de código abierto (FOSS).
 
